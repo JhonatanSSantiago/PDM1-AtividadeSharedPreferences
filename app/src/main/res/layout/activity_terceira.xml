@@ -25,6 +25,7 @@
             android:layout_height="wrap_content"
             android:text="______"
             android:layout_margin="10dp"
+            android:id="@+id/nomeT3"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
         <TextView
             android:layout_width="match_parent"
@@ -37,6 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="________"
+            android:id="@+id/scoreT3"
             android:layout_margin="10dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
     </LinearLayout>
